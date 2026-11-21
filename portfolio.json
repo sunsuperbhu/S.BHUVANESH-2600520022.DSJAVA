@@ -1,0 +1,33 @@
+[ {
+  "userid" : "11",
+  "name" : "1",
+  "email" : "",
+  "holdings" : [ ]
+}, {
+  "userid" : "1",
+  "name" : "1",
+  "email" : "1",
+  "holdings" : [ {
+    "holdingId" : "1",
+    "asset" : {
+      "type" : "stock",
+      "assetId" : "1",
+      "assetName" : "1",
+      "purchasePrice" : 1.0,
+      "currentPrice" : 1.0
+    },
+    "quantity" : 1,
+    "currentValue" : 1.0
+  }, {
+    "holdingId" : "1",
+    "asset" : {
+      "type" : "mutualFund",
+      "assetId" : "1",
+      "assetName" : "1",
+      "purchasePrice" : 1.0,
+      "nav" : 1.0
+    },
+    "quantity" : 1,
+    "currentValue" : 1.0
+  } ]
+} ]
