@@ -1,5 +1,5 @@
 package com.dslabprograms;
 
-public class LAB2PROGRAMSLL {
+public class ArrayOperations {
 
 }
